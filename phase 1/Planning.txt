@@ -1,0 +1,51 @@
+provide incentives for doing things that help save the world:
+-make a credit system for coupons
+- show recycle depos in there area (find a way to do this)(location based computing)
+-get credits for self advert
+
+educate:
+-provide facts (loading screens)
+-ads
+-how to save water
+
+endorsement(receive credits):
+- tag a video of you doing an oral on our app for school or work 
+- tag a video of you biking or at one of our events
+
+scheduled events:
+-location
+-event
+-time
+
+partners:
+-tesla
+-TOMS
+-Patagonia
+-SunPower(introduce loadshedding somehow)
+
+links used:
+- https://www.forbes.com/home-improvement/solar/best-solar-panels/#:~:text=SunPower%20takes%20the%20top%20spot,%2D0.29%25%20per%20degree%20Celsius.
+
+personal links
+https://stackify.com/oop-concept-inheritance/#:~:text=Inheritance%20is%20one%20of%20the,set%20of%20attributes%20and%20methods.
+
+https://www.sumologic.com/glossary/polymorphism/#:~:text=Key%20takeaways-,Polymorphism%20is%20a%20feature%20of%20object%2Doriented%20programming%20languages%20that,redefine%20methods%20for%20derived%20classes.
+
+https://www.pluralsight.com/guides/overload-methods-invoking-overload-methods-csharp#:~:text=Overloading%20happens%20when%20you%20have,as%20arguments%20to%20the%20methods.
+
+https://docs.google.com/document/preview?hgd=1&id=1hcr9mbgw1NUHWQ5xX8oq0xfEDfFR-RNpzE0n6Knj4s4#:~:text=There%20are%20four%20fundamental%20principles,covered%20by%20Schneiderman's%208%20rules.&text=The%20user%20interface%20must%20be,anyone%20to
+%20use%20without%20assistance.
+
+time break startede: 15:11
+time break ended: 15:56
+
+
+
+photos
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nwgold.com%2Fde%2Fswtor%2Fswtor-credits&psig=AOvVaw1xpPxqjBCWbsxaASdGrHPL&ust=1679589855843000&source=images&cd=vfe&ved=0CBIQ3YkBahcKEwjQ-_z3_e_9AhUAAAAAHQAAAAAQBA
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mcsuk.org%2Fwhat-you-can-do%2Fjoin-a-beach-clean%2Ffind-a-beach-clean%2F&psig=AOvVaw0JnK9YicTTOIKKI-WcXAcv&ust=1679604765950000&source=images&cd=vfe&ved=0CBIQ3YkBahcKEwjYwfa9tfD9AhUAAAAAHQAAAAAQBA
+
+
+mr long video to help with objects and database:
+https://youtu.be/9imhqQAI0ck

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/03 12:20:46.304.pas,C:\Users\KSS_L5\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\opening_u.pas</Transaction>
+    <Transaction>2023/07/03 12:20:46.304.dfm,C:\Users\KSS_L5\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\opening_u.dfm</Transaction>
+    <Transaction>2023/07/03 12:21:04.146.dproj,C:\Users\KSS_L5\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\BeachCleanup_p.dproj</Transaction>
+    <Transaction>2023/07/03 12:22:13.808.pas,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\login_u.pas</Transaction>
+    <Transaction>2023/07/03 12:22:13.808.dfm,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\login_u.dfm</Transaction>
+    <Transaction>2023/07/03 12:23:33.298.pas,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\adminMain_u.pas</Transaction>
+    <Transaction>2023/07/03 12:23:33.298.dfm,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\adminMain_u.dfm</Transaction>
+    <Transaction>2023/07/03 13:04:41.643.pas,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\viewmMemberDetails_u.pas</Transaction>
+    <Transaction>2023/07/03 13:04:41.643.dfm,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\viewmMemberDetails_u.dfm</Transaction>
+    <Transaction>2023/07/03 13:06:37.041.pas,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\viewmMemberDetails_u.pas=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\viewMemberDetails_u.pas</Transaction>
+    <Transaction>2023/07/03 13:06:37.041.dfm,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\viewmMemberDetails_u.dfm=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\viewMemberDetails_u.dfm</Transaction>
+    <Transaction>2023/07/03 13:10:56.946.pas,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\dmBeachCleanup_u.pas</Transaction>
+    <Transaction>2023/07/03 13:10:56.946.dfm,C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\KSS_L5\Desktop\Beach Cleanup PAT 2023\dmBeachCleanup_u.dfm</Transaction>
+    <Transaction>2023/07/05 13:50:23.880.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\memberREGISTER_u.pas</Transaction>
+    <Transaction>2023/07/05 13:50:23.880.dfm,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\memberREGISTER_u.dfm</Transaction>
+    <Transaction>2023/07/08 19:22:18.604.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MainUI_u.pas</Transaction>
+    <Transaction>2023/07/08 19:22:18.614.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MainUI_u.dfm</Transaction>
+    <Transaction>2023/07/08 19:35:45.962.pas,F:\PAT IT 2023\phase 2\project\form\home.pas=</Transaction>
+    <Transaction>2023/07/08 19:35:45.962.dfm,F:\PAT IT 2023\phase 2\project\form\home.dfm=</Transaction>
+    <Transaction>2023/07/08 19:38:10.521.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MainUI_u.pas=</Transaction>
+    <Transaction>2023/07/08 19:38:10.521.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MainUI_u.dfm=</Transaction>
+    <Transaction>2023/07/08 19:40:57.165.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\home.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MainUI.pas</Transaction>
+    <Transaction>2023/07/08 19:40:57.165.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\home.dfm=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MainUI.dfm</Transaction>
+    <Transaction>2023/07/10 18:07:07.741.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\objVALID_u.pas</Transaction>
+    <Transaction>2023/07/11 04:48:53.905.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\objMEMBER_u.pas</Transaction>
+    <Transaction>2023/07/11 11:38:18.439.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\deleteMember_u.pas</Transaction>
+    <Transaction>2023/07/11 11:38:18.439.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.dfm=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\deleteMember_u.dfm</Transaction>
+    <Transaction>2023/07/11 11:45:35.643.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MemberSearch_u.pas</Transaction>
+    <Transaction>2023/07/11 11:45:35.643.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.dfm=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\MemberSearch_u.dfm</Transaction>
+    <Transaction>2023/07/11 12:01:17.089.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\UpdateMember_u.pas</Transaction>
+    <Transaction>2023/07/11 12:01:17.089.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.dfm=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\UpdateMember_u.dfm</Transaction>
+    <Transaction>2023/07/11 12:03:02.119.pas,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.pas=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\ADDmember_u.pas</Transaction>
+    <Transaction>2023/07/11 12:03:02.119.dfm,C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\Unit2.dfm=C:\Users\dredd\OneDrive\Desktop\Beach Cleanup PAT 2023\ADDmember_u.dfm</Transaction>
+    <Transaction>2023/07/20 12:22:06.573.pas,S:\Beach Cleanup PAT 2023\Unit2.pas=S:\Beach Cleanup PAT 2023\report_u.pas</Transaction>
+    <Transaction>2023/07/20 12:22:06.573.dfm,S:\Beach Cleanup PAT 2023\Unit2.dfm=S:\Beach Cleanup PAT 2023\report_u.dfm</Transaction>
+    <Transaction>2023/08/18 13:16:46.706.pas,S:\Beach Cleanup PAT 2023\Unit1.pas=S:\Beach Cleanup PAT 2023\Objectsetter_u.pas</Transaction>
+    <Transaction>2023/08/19 14:50:56.745.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Objectsetter_u.pas=</Transaction>
+    <Transaction>2023/08/19 15:14:21.917.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\ADDmember_u.pas=</Transaction>
+    <Transaction>2023/08/19 15:14:21.917.dfm,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\ADDmember_u.dfm=</Transaction>
+    <Transaction>2023/08/19 15:31:49.625.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\EventUpdater_u.pas</Transaction>
+    <Transaction>2023/08/19 15:31:49.625.dfm,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\EventUpdater_u.dfm</Transaction>
+    <Transaction>2023/08/20 21:11:44.878.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\MemberSearch_u.pas=</Transaction>
+    <Transaction>2023/08/20 21:11:44.878.dfm,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\MemberSearch_u.dfm=</Transaction>
+    <Transaction>2023/08/24 18:49:27.635.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\sponsor_u.pas</Transaction>
+    <Transaction>2023/08/24 18:49:27.635.dfm,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\sponsor_u.dfm</Transaction>
+    <Transaction>2023/08/24 23:10:57.132.pas,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.pas=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Stats_u.pas</Transaction>
+    <Transaction>2023/08/24 23:10:57.132.dfm,C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Unit1.dfm=C:\Users\Alvin AMD\Desktop\Beach Cleanup PAT 2023\Stats_u.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="dmBeachCleanup_u.pas"/>
+    <File Path="dmBeachCleanup_u.dfm"/>
+    <File Path="objVALID_u.pas"/>
+    <File Path="objMEMBER_u.pas"/>
+    <File Path="opening_u.pas"/>
+    <File Path="opening_u.dfm"/>
+    <File Path="memberREGISTER_u.pas"/>
+    <File Path="memberREGISTER_u.dfm"/>
+    <File Path="login_u.pas"/>
+    <File Path="login_u.dfm"/>
+    <File Path="MainUI.pas"/>
+    <File Path="MainUI.dfm"/>
+    <File Path="adminMain_u.pas"/>
+    <File Path="adminMain_u.dfm"/>
+    <File Path="viewMemberDetails_u.pas"/>
+    <File Path="viewMemberDetails_u.dfm"/>
+    <File Path="deleteMember_u.pas"/>
+    <File Path="deleteMember_u.dfm"/>
+    <File Path="UpdateMember_u.pas"/>
+    <File Path="UpdateMember_u.dfm"/>
+    <File Path="report_u.pas"/>
+    <File Path="report_u.dfm"/>
+    <File Path="EventUpdater_u.pas"/>
+    <File Path="EventUpdater_u.dfm"/>
+    <File Path="other_u.pas"/>
+    <File Path="other_u.dfm"/>
+    <File Path="sponsor_u.pas"/>
+    <File Path="sponsor_u.dfm"/>
+    <File Path="Stats_u.pas"/>
+    <File Path="Stats_u.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
